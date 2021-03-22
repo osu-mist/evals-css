@@ -1,2 +1,5 @@
-node_modules
-build
+.gradle/
+.sass-cache/
+build/
+target/
+node_modules/
